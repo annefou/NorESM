@@ -4,7 +4,8 @@ Introduction
 ============
            
 
-NorESM1 is the Norwegian Earth System model used for CMIP5. The model is
+
+NorESM is the Norwegian Earth System model used for CMIP5. The model is
 based on the CCSM framework
 (http://en.wikipedia.org/wiki/Community_Climate_System_Model). However,
 NorESM has special features developed by Norwegian researchers.
